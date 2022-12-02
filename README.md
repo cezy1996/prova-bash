@@ -4,5 +4,7 @@
 
 #su gitpod per salvare modifiche:
 git add*
+#mi aggiunge tutte le modifiche 
+
 git commit -m "messaggio qui"
 git push origin master
